@@ -1,0 +1,1 @@
+Como dentro de la carpeta se realizó una modificación, ahora si se permitió el commit
