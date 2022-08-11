@@ -1,0 +1,1 @@
+Github no toma una carpeta vacía como un cambio realizado, por lo cual no permite el commit
