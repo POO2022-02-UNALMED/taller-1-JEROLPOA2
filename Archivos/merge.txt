@@ -2,3 +2,13 @@ Jeronimo Ledesma Patiño.
 18 años.
 Aprender los principios fundamentales de la POO con el fin de
 aprender recursos para el planteamiento y resolucion de problemas
+
+Como se agregó y edito un archivo dentro de la carpeta, ahora Git lo toma como una modificación y permite el commit.
+
+Es importante tener cuidado debido a que alguna de las ediciones o ambas
+pueden depender de elementos que estan siendo modificados en la otra edicion
+Cuando estos conflictos ocurren hay 3 formas principales de resolver el conflicto.
+
+Conservar ambos cambios (es recomendado si no se afectan entre si).
+Conservar la primera edicion.
+Conservar la segunda edicion.
